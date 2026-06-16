@@ -1,0 +1,13 @@
+Procesadas las fotos de Paris:
+No se han detectado errores de formato.
+Réflex:
+=======
+Fotos leídas: 2
+Correctas:    2
+Errores:      0
+Smartphone:
+===========
+Fotos leídas: 3
+Correctas:    3
+Errores:      0
+Generado el script Paris.sh con 5 comandos mv.

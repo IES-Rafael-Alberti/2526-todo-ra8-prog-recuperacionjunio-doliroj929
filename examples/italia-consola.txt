@@ -1,0 +1,13 @@
+Procesadas las fotos de italia:
+No se han detectado errores de formato.
+Réflex:
+=======
+Fotos leídas: 14
+Correctas:    14
+Errores:      0
+Smartphone:
+===========
+Fotos leídas: 16
+Correctas:    16
+Errores:      0
+Generado el script italia.sh con 30 comandos mv.

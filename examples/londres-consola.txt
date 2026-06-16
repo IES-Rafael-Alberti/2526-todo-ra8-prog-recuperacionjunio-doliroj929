@@ -1,0 +1,17 @@
+Procesadas las fotos de londres:
+Errores de formato detectados:
+- Smartphone: IMG_20241301_101010.jpg -> fecha inválida.
+- Smartphone: IMG_20240612_246000.jpg -> hora inválida.
+- Reflex: P320624_120000.jpg -> fecha inválida.
+- Reflex: P150624_126199.jpg -> hora inválida.
+Réflex:
+=======
+Fotos leídas: 10
+Correctas:    8
+Errores:      2
+Smartphone:
+===========
+Fotos leídas: 12
+Correctas:    10
+Errores:      2
+Generado el script londres.sh con 18 comandos mv.

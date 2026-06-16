@@ -1,0 +1,13 @@
+Procesadas las fotos de Japan:
+No se han detectado errores de formato.
+Réflex:
+=======
+Fotos leídas: 1
+Correctas:    1
+Errores:      0
+Smartphone:
+===========
+Fotos leídas: 2
+Correctas:    2
+Errores:      0
+Generado el script Japan.sh con 3 comandos mv.
